@@ -1,0 +1,175 @@
+.navegacion{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15px;
+
+}
+
+
+
+
+
+.primera{
+    background-color: rgb(0,0,26);
+    color: white;
+    font-family: rubik;
+   padding: 30px;
+   padding-right: 30px;
+   line-height: 25px;
+}
+.boton{
+    background-color: rgb(255,118,0);
+    color: white;
+    height: 140x;
+    width: 150px;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: medium;
+   
+    
+}
+.navegacion {
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+a{
+    color: rgb(255,118,0);
+}
+.parrafoprincipal{
+    padding-bottom: 5px;
+
+}
+.galeria{
+    font-family: rubik;
+    padding: 30px;
+    
+}
+.boton-cursos{
+    background-color: rgb(255,118,0);
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+}
+h2{
+    color: rgb(255,118,0);
+}
+.segunda{
+    line-height: 25px;
+}
+.vercursos{
+    background-color: rgb(255,118,0);
+    color: white;
+    padding: 30px;
+    font-weight: bold;
+}
+.pro{
+    padding: 30px;
+    font-family: rubik;
+    background-color: rgb(0,0,26);
+    color: white;
+    line-height: 25px;
+}
+.primeracursos{
+    color: white;
+    background-color: rgb(0,0,26);
+    padding: 30px;
+    text-align: center;
+    font-family: rubik;
+}
+.cursosdisponibles{
+    font-family: rubik;
+    font-weight: bold;
+}
+.listas li{
+    padding-bottom: 12px;
+    padding-left: 30px;
+    
+}
+nav{
+    color: rgb(255,118,0);
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+
+}
+.cursosdisponibles h2{
+    text-align: center;
+}
+.procursos{
+    text-align: center;
+    color: white;
+    background-color: rgb(0,0,26);
+    font-family: rubik;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+.procursos h2{
+    color: white;
+}
+.procursos div{
+    color: red;
+}
+.descripcionpro{
+    font-family: rubik;
+    padding-left: 30px;
+    line-height: 25px;
+    padding-right: 30px;
+}
+.imagenpro{
+    text-align: center;
+}
+.beneficiospro{
+    font-family: rubik;
+    padding-left: 30px;
+}
+.ofertapro h2{
+    color: red;
+    text-align: center;
+    font-family: rubik;
+}
+.ofertapro{
+    text-align: center;
+    font-family: rubik;
+}
+div.navpro{
+    text-align: center;
+    color: rgb(255,118,0);
+    font-family: rubik;
+    font-weight: bold;
+    background-color: white;
+    padding-bottom: 15px;
+}
+.primeraconocenos{
+    font-size: larger;
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+    background-color: rgb(0,0,26);
+    font-family: rubik;
+    line-height: 40px;
+}
+.subrayado{
+    color: rgb(255,118,0);
+}
+.finalconocenos{
+    font-family: rubik;
+    text-align: center;
+}
+.trabajaconnosotros{
+    padding: 30px;
+    font-family: rubik;
+    background-color: rgb(0,0,26);
+    color: white;
+}
+.primeratrabaja h1{
+    color:  rgb(255,118,0);
+}
+.primeratrabaja {
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
